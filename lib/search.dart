@@ -12,7 +12,6 @@ class _aramaState extends State<arama> {
   Widget build(BuildContext context) {
     return Container(
       color: Colors.white,
-      width: 430,
       height: 50,
       child: Row(
         children: [
