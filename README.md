@@ -1,16 +1,6 @@
-# yemekrehberison
+Merhaba herkese, 2 hafta önce başladığım #Flutter serüvenimdeki ilk uygulamam olan Yemek tarifi uygulamamı bence #frontend olarak artık tamamladım sayılır. Bu projede, kendimi geliştirmek için Udemy'den Ramazan Güler hocamızın #Figma dersleri ve Kasım ADALAN hocamızın ve Veli Bacik hocamızın #Flutter derslerini takip ettim . Bu dersler gerçekten benim için çok yararlı oldu ve projemde büyük bir ilerleme kaydetmemi sağladı.
 
-A new Flutter project.
+Uygulamamda yaptığım geliştirmeler arasında yemek tarifi detayı görüntüleme, kullanıcı arayüzü tasarımının güncellenmesi ve daha hızlı bir performans yer alıyor. Ayrıca, uygulamanın backend tarafını Firebase ile oluşturmayı düşünüyorum. Uygulamamdaki logo tamamen benim tarafımdan yapılmış olup uygulama ismi benim tarafımdan bulunmuştur.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Umarım uygulamamı beğenirsiniz ve sizler için yararlı bir araç olur. Geri dönüşlerinizi bekliyorum ve son olarak responsive olmadı sanırım 😅
